@@ -5,22 +5,26 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Navaneethankumanan">
-    <img src="https://img.shields.io/github/followers/Navaneethankumanan?label=Follow&style=for-the-badge" />
-  </a>
   <a href="https://www.linkedin.com/in/navaneethan-k-b7070b260">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://linktr.ee/navaneethan_05">
-    <img src="https://img.shields.io/badge/Linktree-Visit-brightgreen?style=for-the-badge&logo=linktree" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"/>
   </a>
   <a href="https://navaneethan-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-View-orange?style=for-the-badge&logo=firefox" />
+    <img src="https://img.shields.io/badge/Portfolio-Live-orange?style=flat-square"/>
   </a>
-  <a href="https://drive.google.com/file/d/15E4OfMvX8gt8hllEHwR8XTxxxZXepauM/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=adobeacrobatreader" />
+  <a href="https://drive.google.com/file/d/15E4OfMvX8gt8hllEHwR8XTxxxZXepauM/view">
+    <img src="https://img.shields.io/badge/Resume-PDF-success?style=flat-square"/>
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/Navaneethankumanan">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square"/>
+  </a>
+  <a href="https://linktr.ee/navaneethan_05">
+    <img src="https://img.shields.io/badge/Linktree-Links-brightgreen?style=flat-square"/>
+  </a>
+</p>
+
 
 
 ---
