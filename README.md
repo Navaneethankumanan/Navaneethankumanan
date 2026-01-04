@@ -29,13 +29,12 @@
 
 ---
 <p align="center">
-  <a href="#projects">
-    <img src="https://img.shields.io/badge/Projects-View-blue?style=flat-square"/>
-  </a>
-  <a href="#skills">
-    <img src="https://img.shields.io/badge/Skills-Explore-green?style=flat-square"/>
-  </a>
+  <a href="#projects"><b>Projects</b></a> ·
+  <a href="#skills"><b>Skills</b></a> ·
+  <a href="#learning"><b>Learning Focus</b></a> ·
+  <a href="#goals"><b>Goals</b></a>
 </p>
+
 
 
 ---
@@ -191,7 +190,9 @@ A planned **full-stack system** connecting **Web and Android apps** to a **singl
 
 ---
 
+<a id="learning"></a>
 ## 📚 Current Learning Focus
+
 - Writing Android apps independently without AI dependency
 - Deep understanding of Activities, Fragments, and app lifecycle
 - Learning backend fundamentals (Node.js & REST APIs)
@@ -200,7 +201,9 @@ A planned **full-stack system** connecting **Web and Android apps** to a **singl
 
 ---
 
+<a id="goals"></a>
 ## 📈 Goals (Next Few Months)
+
 - Build multiple Android practice apps from scratch
 - Complete SureGuard with background & emergency services
 - Learn SQL deeply and use it in a backend project
