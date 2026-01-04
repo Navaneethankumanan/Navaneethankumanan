@@ -28,8 +28,15 @@
 
 
 ---
-[![Projects](https://img.shields.io/badge/Projects-View-blue?style=for-the-badge)](#-projects)
-[![Skills](https://img.shields.io/badge/Skills-Explore-green?style=for-the-badge)](#-skills)
+<p align="center">
+  <a href="#projects">
+    <img src="https://img.shields.io/badge/Projects-View-blue?style=flat-square"/>
+  </a>
+  <a href="#skills">
+    <img src="https://img.shields.io/badge/Skills-Explore-green?style=flat-square"/>
+  </a>
+</p>
+
 
 ---
 
