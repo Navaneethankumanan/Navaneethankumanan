@@ -43,7 +43,9 @@ Currently, I am rebuilding my foundations and focusing on writing code independe
 
 ---
 
+<a id="skills"></a>
 ## 🛠️ Tech Stack (Learning & Using)
+
 
 ### 📱 Mobile Development
 - Android (Java)
@@ -68,8 +70,8 @@ Currently, I am rebuilding my foundations and focusing on writing code independe
 
 ---
 
+<a id="projects"></a>
 ## 🚀 Projects Timeline & Growth Board
-<sub><i>From learning experiments to real-world applications — this section evolves as I grow.</i></sub>
 
 ---
 
