@@ -29,10 +29,10 @@
 
 ---
 <p align="center">
-  <a href="#projects"><b>Projects</b></a> ·
-  <a href="#skills"><b>Skills</b></a> ·
-  <a href="#learning"><b>Learning Focus</b></a> ·
-  <a href="#goals"><b>Goals</b></a>
+  <a href="#projects">Projects</a> |
+  <a href="#skills">Skills</a> |
+  <a href="#learning">Learning</a> |
+  <a href="#goals">Goals</a>
 </p>
 
 
