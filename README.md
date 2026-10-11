@@ -178,6 +178,7 @@ An Android messaging application concept focused on organized conversations, pri
 
 👉 **[View Project Details](https://github.com/Navaneethankumanan/Chat-App)**
 
+---
 
 ### 🧠 Learning Builds (In Progress)
 <sub><i>Hands-on projects I’m actively building to strengthen fundamentals.</i></sub>
