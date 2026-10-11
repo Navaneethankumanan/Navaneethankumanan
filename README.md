@@ -144,6 +144,12 @@ A live personal portfolio website that represents my journey in software develop
 ---
 ### 📝 Notes App — Personal Life OS
 
+<p>
+  <img src="https://img.shields.io/badge/Android-Java-success?style=flat-square&logo=android"/>
+  <img src="https://img.shields.io/badge/UI-XML-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Firebase-Auth%20%7C%20Firestore-orange?style=flat-square&logo=firebase"/>
+  <img src="https://img.shields.io/badge/Status-Public-brightgreen?style=flat-square"/>
+</p>
 An Android productivity application designed to bring notes, tasks, ideas, shopping lists, and reminders into one organized workspace.
 
 - 📝 Smart note types and organized note management
@@ -156,6 +162,13 @@ An Android productivity application designed to bring notes, tasks, ideas, shopp
 ---
 
 ### 💬 Chat App — Beyond Messaging
+
+<p>
+  <img src="https://img.shields.io/badge/Android-Java-success?style=flat-square&logo=android"/>
+  <img src="https://img.shields.io/badge/UI-XML-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Firebase-Backend-orange?style=flat-square&logo=firebase"/>
+  <img src="https://img.shields.io/badge/Status-Public-brightgreen?style=flat-square"/>
+</p>
 
 An Android messaging application concept focused on organized conversations, privacy, and turning discussions into actionable information.
 
