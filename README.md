@@ -142,6 +142,30 @@ A live personal portfolio website that represents my journey in software develop
 👉 **View Repository:** https://github.com/Navaneethankumanan/Parkingslotmanagmentsystem
 
 ---
+### 📝 Notes App — Personal Life OS
+
+An Android productivity application designed to bring notes, tasks, ideas, shopping lists, and reminders into one organized workspace.
+
+- 📝 Smart note types and organized note management
+- 🔍 Search and quick capture for everyday information
+- 🔥 Firebase Authentication and Cloud Firestore integration
+- 🎯 Long-term vision for connected notes, personal timelines, and productivity tools
+
+👉 **[View Project Details](https://github.com/Navaneethankumanan/Notes-App)**
+
+---
+
+### 💬 Chat App — Beyond Messaging
+
+An Android messaging application concept focused on organized conversations, privacy, and turning discussions into actionable information.
+
+- 💬 One-to-one and group messaging
+- 🧠 Conversation Actions for questions, decisions, plans, and commitments
+- 📌 Conversation Checkpoints to preserve decisions and pending tasks
+- 🔗 Context Packs to organize related messages and content
+- 🔥 Planned Firebase-based backend with a free-tier-first approach
+
+👉 **[View Project Details](https://github.com/Navaneethankumanan/Chat-App)**
 
 
 ### 🧠 Learning Builds (In Progress)
